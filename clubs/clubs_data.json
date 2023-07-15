@@ -1,0 +1,1429 @@
+{
+  "imgBaseUrl": "clubs/imgs",
+  "clubs": [
+    {
+      "clubName": "Leo Club of Baddegama",
+      "logo": "default_data/logo.png",
+      "officers": [
+        {
+          "designation": "President",
+          "name": "Leo Anushka Shaminda",
+          "gender": "",
+          "phone": "0703328477",
+          "email": "anushkaliyanageleo@gmail.com",
+          "mylci": "",
+          "address": "Kumudu, Boralukada, Baddegama",
+          "img": "leo_club_of_baddegama/president.png"
+        },
+        {
+          "designation": "Vice President",
+          "name": "Leo Ishini Sewwandi",
+          "gender": "",
+          "phone": "0769044469",
+          "email": "ishinisewwandi97@gmail.com ",
+          "mylci": "",
+          "address": "Galle Gedara', Keembi-Ela, Poddala, Galle",
+          "img": "leo_club_of_baddegama/vice_president.png"
+        },
+        {
+          "designation": "Secretary",
+          "name": "Leo Kasuni Shenali",
+          "gender": "",
+          "phone": "0765736006",
+          "email": "y.k.kasuni@gmail.com",
+          "mylci": "",
+          "address": "Pragathi Uyana, School Lane, Welideniya, Wanduramba, Galle",
+          "img": "leo_club_of_baddegama/secretary.png"
+        },
+        {
+          "designation": "Treasurer",
+          "name": "Leo Uvini Halloluwa",
+          "gender": "",
+          "phone": "0702377278",
+          "email": "uvini.halloluwa@gmail.com",
+          "mylci": "",
+          "address": "Kajugasduwa Watta, Kotagoda, Baddegama",
+          "img": "leo_club_of_baddegama/treasurer.png"
+        },
+        {
+          "designation": "Club Advisor",
+          "name": "Lion Ananda Abeywickrama",
+          "gender": "",
+          "phone": "0777755990",
+          "email": "ananda.abeywickrama@gmail.com",
+          "mylci": "",
+          "address": "Danwala Group, Nayapamula, Baddegama",
+          "img": "leo_club_of_baddegama/club_advisor.png"
+        }
+      ]
+    },
+    {
+      "clubName": "Leo Club of Centennial Richmond College",
+      "logo": "default_data/logo.png",
+      "officers": [
+        {
+          "designation": "President",
+          "name": "Leo Ashmika Kodikara",
+          "gender": "",
+          "phone": "0722227057",
+          "email": "ashmikakodikara@gmail.com",
+          "mylci": "",
+          "address": "348/120,Wackwella road,Galle",
+          "img": "leo_club_of_centennial_richmond_college/president.png"
+        },
+        {
+          "designation": "Vice President",
+          "name": "",
+          "gender": "",
+          "phone": "",
+          "email": "",
+          "mylci": "",
+          "address": "",
+          "img": "leo_club_of_centennial_richmond_college/vice_president.png"
+        },
+        {
+          "designation": "Secretary",
+          "name": "Leo Visith Illaperuma",
+          "gender": "",
+          "phone": "0704162339",
+          "email": "leovisithilayperuma@gmail.com",
+          "mylci": "",
+          "address": "No.71/75, Mahawaththa Road, Mampitiya, Galle",
+          "img": "leo_club_of_centennial_richmond_college/secretary.png"
+        },
+        {
+          "designation": "Treasurer",
+          "name": "Leo Nadina Weerasinghe",
+          "gender": "",
+          "phone": "0702782035",
+          "email": "nadina0504@gmail.com",
+          "mylci": "",
+          "address": "No.44/4, Wakwella road, Galle.",
+          "img": "leo_club_of_centennial_richmond_college/treasurer.png"
+        },
+        {
+          "designation": "Club Advisor",
+          "name": "Leo Lion Hasitha Jayaratne",
+          "gender": "",
+          "phone": "0766367860",
+          "email": "hassi.jayarathne@gmail.com",
+          "mylci": "",
+          "address": "",
+          "img": "leo_club_of_centennial_richmond_college/club_advisor.png"
+        },
+        {
+          "designation": "Staff Advisor",
+          "name": "Ms Prasangi Kiringoda",
+          "gender": "",
+          "phone": "0718674251",
+          "email": "prasangikiringoda001@gmail.com",
+          "mylci": "",
+          "address": "16/2A, Hadungewatta, Uluvitike, Galle",
+          "img": "leo_club_of_centennial_richmond_college/staff_advisor.png"
+        }
+      ]
+    },
+    {
+      "clubName": "Leo Club of Christ Church Boys College",
+      "logo": "default_data/logo.png",
+      "officers": [
+        {
+          "designation": "President",
+          "name": "Leo Methuka Balasooriya",
+          "gender": "",
+          "phone": "0773546928",
+          "email": "chamindabalasooriya60@gmail.com",
+          "mylci": "",
+          "address": "Amarawansha Mawatha, Didaliya, Meetiyagoda",
+          "img": "leo_club_of_christ_church_boys_college/president.png"
+        },
+        {
+          "designation": "Vice President",
+          "name": "",
+          "gender": "",
+          "phone": "",
+          "email": "",
+          "mylci": "",
+          "address": "",
+          "img": "leo_club_of_christ_church_boys_college/vice_president.png"
+        },
+        {
+          "designation": "Secretary",
+          "name": "",
+          "gender": "",
+          "phone": "",
+          "email": "",
+          "mylci": "",
+          "address": "",
+          "img": "leo_club_of_christ_church_boys_college/secretary.png"
+        },
+        {
+          "designation": "Treasurer",
+          "name": "",
+          "gender": "",
+          "phone": "",
+          "email": "",
+          "mylci": "",
+          "address": "",
+          "img": "leo_club_of_christ_church_boys_college/treasurer.png"
+        },
+        {
+          "designation": "Club Advisor",
+          "name": "",
+          "gender": "",
+          "phone": "",
+          "email": "",
+          "mylci": "",
+          "address": "",
+          "img": "leo_club_of_christ_church_boys_college/club_advisor.png"
+        },
+        {
+          "designation": "Staff Advisor",
+          "name": "",
+          "gender": "",
+          "phone": "",
+          "email": "",
+          "mylci": "",
+          "address": "",
+          "img": "leo_club_of_christ_church_boys_college/staff_advisor.png"
+        }
+      ]
+    },
+    {
+      "clubName": "Leo Club of Colombo Monarch",
+      "logo": "default_data/logo.png",
+      "officers": [
+        {
+          "designation": "President",
+          "name": "Leo Sanjana Sithira Ganegoda",
+          "gender": "",
+          "phone": "0716308090",
+          "email": "sanjanasithira29@gmail.com",
+          "mylci": "",
+          "address": "272/2, Dewala Road, Batakettara, Madapatha",
+          "img": "leo_club_of_colombo_monarch/president.png"
+        },
+        {
+          "designation": "Vice President",
+          "name": "Leo Induja Gunathilake",
+          "gender": "",
+          "phone": "0773971466",
+          "email": "igunathilake97@gmail.com",
+          "mylci": "",
+          "address": "No.261L, Makuluduwa Road, Bokundara, Piliyandala",
+          "img": "leo_club_of_colombo_monarch/vice_president.png"
+        },
+        {
+          "designation": "Secretary",
+          "name": "Leo Nathasha Sandavinee Siwrathne",
+          "gender": "",
+          "phone": "0762436639",
+          "email": "nathashas999@gmail.com ",
+          "mylci": "",
+          "address": "25/3, Gorakagaha Avenue, Suwisuddharama road, Colombo 06",
+          "img": "leo_club_of_colombo_monarch/secretary.png"
+        },
+        {
+          "designation": "Treasurer",
+          "name": "Leo Nipuna Milan Kodithuwakku",
+          "gender": "",
+          "phone": "0771286699",
+          "email": "nipunamilan14@gmail.com",
+          "mylci": "",
+          "address": "No.66/1/A, Aramaya Place, Dematagoda, Colombo 09",
+          "img": "leo_club_of_colombo_monarch/treasurer.png"
+        },
+        {
+          "designation": "Club Advisor",
+          "name": "Lion Thulitha Piyasena",
+          "gender": "",
+          "phone": "0773515182",
+          "email": "thulitha@gmail.com",
+          "mylci": "",
+          "address": "",
+          "img": "leo_club_of_colombo_monarch/club_advisor.png"
+        }
+      ]
+    },
+    {
+      "clubName": "Leo Club of Dehiwala East",
+      "logo": "default_data/logo.png",
+      "officers": [
+        {
+          "designation": "President",
+          "name": "Leo Kasun Dilshan Abenayake",
+          "gender": "",
+          "phone": "0766146315",
+          "email": "kdilshanam@gmail.com",
+          "mylci": "",
+          "address": "292/D, Pepiliyana, Boralesgamuwa",
+          "img": "leo_club_of_dehiwala_east/president.png"
+        },
+        {
+          "designation": "Vice President",
+          "name": "Leo Gihan Kavinda ",
+          "gender": "",
+          "phone": "0741220878",
+          "email": "gihankavind123@gmail.com",
+          "mylci": "",
+          "address": "76/1A, Podujana Mawatha, Brahammanagama, Pannipitiya",
+          "img": "leo_club_of_dehiwala_east/vice_president.png"
+        },
+        {
+          "designation": "Secretary",
+          "name": "Leo Madusanka Vimukthi",
+          "gender": "",
+          "phone": "0701205426",
+          "email": "madusankav2002@gmail.com",
+          "mylci": "",
+          "address": "91/B/1 Meegahawaththa Road, Makuluduwa, Piliyandala",
+          "img": "leo_club_of_dehiwala_east/secretary.png"
+        },
+        {
+          "designation": "Treasurer",
+          "name": "Leo Daham Pansilu",
+          "gender": "",
+          "phone": "0778148233",
+          "email": "pansilurulz@gmail.com",
+          "mylci": "",
+          "address": "179/4B Hikgahawatta Road, Pepiliyana, Borelasgmuwa",
+          "img": "leo_club_of_dehiwala_east/treasurer.png"
+        },
+        {
+          "designation": "Club Advisor",
+          "name": "",
+          "gender": "",
+          "phone": "",
+          "email": "",
+          "mylci": "",
+          "address": "",
+          "img": "leo_club_of_dehiwala_east/club_advisor.png"
+        }
+      ]
+    },
+    {
+      "clubName": "Leo Club of Godigamuwa",
+      "logo": "default_data/logo.png",
+      "officers": [
+        {
+          "designation": "President",
+          "name": "Leo Shanila Thirimanne",
+          "gender": "",
+          "phone": "0766396304",
+          "email": "shanilathiri@gmail.com",
+          "mylci": "",
+          "address": "103/26B, Dr. Samarapala Perera Avenue, Lake Road, Borelesgamuwa",
+          "img": "leo_club_of_godigamuwa/president.png"
+        },
+        {
+          "designation": "Vice President",
+          "name": "Leo Maleesha Wickramarathne ",
+          "gender": "",
+          "phone": "0716132954",
+          "email": "parameem1999@gmail.com",
+          "mylci": "",
+          "address": "417/05/01,Alapahala Road, Palanwaththa, Pannipitiya",
+          "img": "leo_club_of_godigamuwa/vice_president.png"
+        },
+        {
+          "designation": "Secretary",
+          "name": "Leo Tharushi Dewanmini Jayaneththi",
+          "gender": "",
+          "phone": "0719548059",
+          "email": "tharujayaneththi18@gmail.com",
+          "mylci": "",
+          "address": "186/7A, Aberathna Mawatha, Makuluduwa, Piliyandala",
+          "img": "leo_club_of_godigamuwa/secretary.png"
+        },
+        {
+          "designation": "Treasurer",
+          "name": "Leo Keheliya Perera ",
+          "gender": "",
+          "phone": "0767933629",
+          "email": "skeheliyaperera@gmail.com",
+          "mylci": "",
+          "address": "269, Kumbuka West, Gonapola",
+          "img": "leo_club_of_godigamuwa/treasurer.png"
+        },
+        {
+          "designation": "Club Advisor",
+          "name": "Lion Lal Manage",
+          "gender": "",
+          "phone": "0771501160",
+          "email": "lalmanage66@gmail.com",
+          "mylci": "",
+          "address": "",
+          "img": "leo_club_of_godigamuwa/club_advisor.png"
+        }
+      ]
+    },
+    {
+      "clubName": "Leo Club of Kalubowila",
+      "logo": "default_data/logo.png",
+      "officers": [
+        {
+          "designation": "President",
+          "name": "Leo Osanda Bandara Wijekoon",
+          "gender": "",
+          "phone": "0779454798",
+          "email": "osandawijekoon@gmail.com",
+          "mylci": "",
+          "address": "200/11A, Uthuwankanda road, Thalawathugoda",
+          "img": "leo_club_of_kalubowila/president.png"
+        },
+        {
+          "designation": "Vice President",
+          "name": "Leo Mindula Devinda Perera",
+          "gender": "",
+          "phone": "0778930581",
+          "email": "minduladevinda22@gmail.com",
+          "mylci": "",
+          "address": "27/8/B,Dewala Road, Depanama, Pannipitiya",
+          "img": "leo_club_of_kalubowila/vice_president.png"
+        },
+        {
+          "designation": "Secretary",
+          "name": "Leo Thanuri Navindi Upasena",
+          "gender": "",
+          "phone": "0703258914",
+          "email": "thanurinavindi.upasena@gmail.com",
+          "mylci": "",
+          "address": "165/1 Borella road. Thalawathugoda",
+          "img": "leo_club_of_kalubowila/secretary.png"
+        },
+        {
+          "designation": "Treasurer",
+          "name": "Leo Theeksha Dumini Gamage",
+          "gender": "",
+          "phone": "0779142458",
+          "email": "tdumini@gmail.com",
+          "mylci": "",
+          "address": "171/60, Udara Pedesa, Ananda Mawatha, Kithulampitiya, Galle",
+          "img": "leo_club_of_kalubowila/treasurer.png"
+        },
+        {
+          "designation": "Club Advisor",
+          "name": "Lion Delrusha Seneviratne",
+          "gender": "",
+          "phone": "0778885411",
+          "email": "delrushaseneviratne@gmail.com",
+          "mylci": "",
+          "address": "222B, Galvihara Road, Dehiwala",
+          "img": "leo_club_of_kalubowila/club_advisor.png"
+        }
+      ]
+    },
+    {
+      "clubName": "Leo Club of Kesbewa",
+      "logo": "default_data/logo.png",
+      "officers": [
+        {
+          "designation": "President",
+          "name": "Leo Hiranya Dewmina Wijeratne",
+          "gender": "",
+          "phone": "0762524819",
+          "email": "hiranyadewmina2002@gmail.com",
+          "mylci": "",
+          "address": "341/1/112/B Mahayayawathha Palanwathha Pannipitiya",
+          "img": "leo_club_of_kesbewa/president.png"
+        },
+        {
+          "designation": "Vice President",
+          "name": "Leo Wayanthi perera",
+          "gender": "",
+          "phone": "77 282 2727",
+          "email": "madushikaperera2018@gmail.com",
+          "mylci": "",
+          "address": "736/3 Rukmale Road, Kottawa Dakuna, Pannipitiya",
+          "img": "leo_club_of_kesbewa/vice_president.png"
+        },
+        {
+          "designation": "Secretary",
+          "name": "Leo Nadiv Perera",
+          "gender": "",
+          "phone": "0703428706",
+          "email": "mvsaman@gmail.com",
+          "mylci": "",
+          "address": "156/2C,Paligedara Road, Makuluduwa, Piliyandala",
+          "img": "leo_club_of_kesbewa/secretary.png"
+        },
+        {
+          "designation": "Treasurer",
+          "name": "Leo Sasika Jayawardene",
+          "gender": "",
+          "phone": "0766187476",
+          "email": "sasikasathsara0@gmail.com",
+          "mylci": "",
+          "address": "514/2 Passan Mawatha, Arawwala, Pannipitiya",
+          "img": "leo_club_of_kesbewa/treasurer.png"
+        },
+        {
+          "designation": "Club Advisor",
+          "name": "Leo R.K. Amal Ravinatha",
+          "gender": "",
+          "phone": "0714244259",
+          "email": "amalravinatha @gmail.com",
+          "mylci": "",
+          "address": "221/13,Pamunuwa Road ,Maharagama",
+          "img": "leo_club_of_kesbewa/club_advisor.png"
+        }
+      ]
+    },
+    {
+      "clubName": "Leo Club of Matara Nilwala",
+      "logo": "default_data/logo.png",
+      "officers": [
+        {
+          "designation": "President",
+          "name": "Leo Navindu Seran",
+          "gender": "",
+          "phone": "0702285552",
+          "email": "navindu263@gmail.com",
+          "mylci": "",
+          "address": "22/1 A, Abeygunarathana Mawatha , Pamburana , Matara",
+          "img": "leo_club_of_matara_nilwala/president.png"
+        },
+        {
+          "designation": "Vice President",
+          "name": "Leo Sathira Wellappuli",
+          "gender": "",
+          "phone": "0716855275",
+          "email": "leosathirawellappuli@gmail.com",
+          "mylci": "",
+          "address": "\"Suhada\", Kotawila, Kamburugamuwa.",
+          "img": "leo_club_of_matara_nilwala/vice_president.png"
+        },
+        {
+          "designation": "Secretary",
+          "name": "Leo Nidula Chithwara",
+          "gender": "",
+          "phone": "0711323563",
+          "email": "chithwara@gmail.com",
+          "mylci": "",
+          "address": "1D F3 U8 Ariyana Resorts Apartment, Annasiwatta Road,",
+          "img": "leo_club_of_matara_nilwala/secretary.png"
+        },
+        {
+          "designation": "Treasurer",
+          "name": "Leo Pamodi Bashika",
+          "gender": "",
+          "phone": "0710128498",
+          "email": "pamodibandara@gmail.com",
+          "mylci": "",
+          "address": "No 5 Dewata Road, Nupe, Matara",
+          "img": "leo_club_of_matara_nilwala/treasurer.png"
+        },
+        {
+          "designation": "Club Advisor",
+          "name": "Lion Nirmal Illangamge",
+          "gender": "",
+          "phone": "0715335135",
+          "email": "mathsnirmal@gmail.com",
+          "mylci": "",
+          "address": "",
+          "img": "leo_club_of_matara_nilwala/club_advisor.png"
+        }
+      ]
+    },
+    {
+      "clubName": "Leo Club of Millaniya",
+      "logo": "default_data/logo.png",
+      "officers": [
+        {
+          "designation": "President",
+          "name": "Leo Savinu Kulan",
+          "gender": "",
+          "phone": "0703708659",
+          "email": "savinuk123@gmail.com",
+          "mylci": "",
+          "address": "213/8, Sooriyasewana, Kuda Uduwa, Horana",
+          "img": "leo_club_of_millaniya/president.png"
+        },
+        {
+          "designation": "Vice President",
+          "name": "Leo Devwandi Yasanayaka",
+          "gender": "",
+          "phone": "0761899377",
+          "email": "rmndyasanayaka2001@gmail.com",
+          "mylci": "",
+          "address": "270/15D, Royal Gardens, Horana",
+          "img": "leo_club_of_millaniya/vice_president.png"
+        },
+        {
+          "designation": "Secretary",
+          "name": "Leo Muthuni Saubhagya",
+          "gender": "",
+          "phone": "0710316275",
+          "email": "saugeeky2001@gmail.com",
+          "mylci": "",
+          "address": "No, 7/50, Horakatatiya, Kuda uduwa, Horana",
+          "img": "leo_club_of_millaniya/secretary.png"
+        },
+        {
+          "designation": "Treasurer",
+          "name": "Leo Kaveesha Wadduwage",
+          "gender": "",
+          "phone": "0702443986",
+          "email": "chamodikaveesha29@gmail.com",
+          "mylci": "",
+          "address": "105/B, Karandagahawatta, Pokunuwita",
+          "img": "leo_club_of_millaniya/treasurer.png"
+        },
+        {
+          "designation": "Club Advisor",
+          "name": "Lion P. G. K. Nidhani",
+          "gender": "",
+          "phone": "0777597244",
+          "email": "nidhani76@gmail.com",
+          "mylci": "",
+          "address": "213/8, Sooriyasewana, Kuda Uduwa, Horana",
+          "img": "leo_club_of_millaniya/club_advisor.png"
+        }
+      ]
+    },
+    {
+      "clubName": "Leo Club of Panadura Alubomulla",
+      "logo": "default_data/logo.png",
+      "officers": [
+        {
+          "designation": "President",
+          "name": "Leo Isuru Mendis Wickramarathna",
+          "gender": "",
+          "phone": "0716017249",
+          "email": "isuruwickramarathna@gmail.com",
+          "mylci": "",
+          "address": "24th Mile post, Maha Waskaduwa, Waskaduwa",
+          "img": "leo_club_of_panadura_alubomulla/president.png"
+        },
+        {
+          "designation": "Vice President",
+          "name": "Leo I. Tharindu Darshana Wijewardana ",
+          "gender": "",
+          "phone": "0786110224",
+          "email": "tdarshana2014@gmail.com",
+          "mylci": "",
+          "address": "Kachchagoda,Palayangoda, Payagala South",
+          "img": "leo_club_of_panadura_alubomulla/vice_president.png"
+        },
+        {
+          "designation": "Secretary",
+          "name": "Leo Githmi Kavindya Wickramaarachchi",
+          "gender": "",
+          "phone": "0705644979",
+          "email": "githmiwickramaarachchi01@gmail.com",
+          "mylci": "",
+          "address": "No 129/A, Suwasewa Mawatha, Maha-Heenatiyangala, Kalutara South",
+          "img": "leo_club_of_panadura_alubomulla/secretary.png"
+        },
+        {
+          "designation": "Treasurer",
+          "name": "Leo Kisal Vindula Senanayake",
+          "gender": "",
+          "phone": "0775464691",
+          "email": "kisals770@gmail.com",
+          "mylci": "",
+          "address": "11/62, 4th Lane, Nagoda, Kalutara",
+          "img": "leo_club_of_panadura_alubomulla/treasurer.png"
+        },
+        {
+          "designation": "Club Advisor",
+          "name": "Same as Last year",
+          "gender": "",
+          "phone": "",
+          "email": "",
+          "mylci": "",
+          "address": "",
+          "img": "leo_club_of_panadura_alubomulla/club_advisor.png"
+        }
+      ]
+    },
+    {
+      "clubName": "Leo Club of Polgasowita",
+      "logo": "default_data/logo.png",
+      "officers": [
+        {
+          "designation": "President",
+          "name": "Leo Disali Amalya Gunasekera",
+          "gender": "",
+          "phone": "0768355413",
+          "email": "gunasekeradisali@gmail.com",
+          "mylci": "",
+          "address": "35/1 Jayasewena Mawatha, Kalubowila, Dehiwela",
+          "img": "leo_club_of_polgasowita/president.png"
+        },
+        {
+          "designation": "Vice President",
+          "name": "Leo Malika Durangi Gamage",
+          "gender": "",
+          "phone": "0775030926",
+          "email": "malikagamage98@gmail.com",
+          "mylci": "",
+          "address": "No.146, Rampart Road, Ethul Kotte, Kotte",
+          "img": "leo_club_of_polgasowita/vice_president.png"
+        },
+        {
+          "designation": "Secretary",
+          "name": "Leo Udumbara Subajanani",
+          "gender": "",
+          "phone": "0763324861",
+          "email": "udu.suba.janani@gmail.com",
+          "mylci": "",
+          "address": "493/8, Sirimedura Estate, Meegoda",
+          "img": "leo_club_of_polgasowita/secretary.png"
+        },
+        {
+          "designation": "Treasurer",
+          "name": "Leo Gimhan Ravishankha Ranasinghe",
+          "gender": "",
+          "phone": "0779801585",
+          "email": "gimhanravi@gmail.com",
+          "mylci": "",
+          "address": "27/B/5/A, Gorakagaha waththa rd,Kesbewa, Piliyandala",
+          "img": "leo_club_of_polgasowita/treasurer.png"
+        },
+        {
+          "designation": "Club Advisor",
+          "name": "Lion Sumith Wijeratne MJF",
+          "gender": "",
+          "phone": "0777884113",
+          "email": "sumith@printelsrilanka.com ",
+          "mylci": "",
+          "address": "No. 286/M3, Lumbini Place, Thalawathugoda",
+          "img": "leo_club_of_polgasowita/club_advisor.png"
+        }
+      ]
+    },
+    {
+      "clubName": "Leo Club of Rahula College",
+      "logo": "default_data/logo.png",
+      "officers": [
+        {
+          "designation": "President",
+          "name": "Leo Nimeth Marasingha",
+          "gender": "",
+          "phone": "0763460862",
+          "email": "nimethmarasingha@gmail.com",
+          "mylci": "",
+          "address": "120/1,Puwakwaththa,Wewahamanduwa,Matara.",
+          "img": "leo_club_of_rahula_college/president.png"
+        },
+        {
+          "designation": "Vice President",
+          "name": "Leo Tharun Devaraja",
+          "gender": "",
+          "phone": "0783788555",
+          "email": "tharunrandiv@gmail.com",
+          "mylci": "",
+          "address": "106,Rahula Road, Matara.",
+          "img": "leo_club_of_rahula_college/vice_president.png"
+        },
+        {
+          "designation": "Secretary",
+          "name": "Leo K. Sasiru Virajith",
+          "gender": "",
+          "phone": "0777006508",
+          "email": " virajithsasiru@gmail.com",
+          "mylci": "",
+          "address": "5/24, Mahanamapura, Matara",
+          "img": "leo_club_of_rahula_college/secretary.png"
+        },
+        {
+          "designation": "Treasurer",
+          "name": "Leo P.G.Pramukha Wageesha",
+          "gender": "",
+          "phone": "0711037691",
+          "email": "gallagepramukha07@gmail.com",
+          "mylci": "",
+          "address": "\"pramukha\",dhmmananda mavatha,walawwaththa,thalaramba,kamburugamavuva",
+          "img": "leo_club_of_rahula_college/treasurer.png"
+        },
+        {
+          "designation": "Club Advisor",
+          "name": "Lion Sumedha Kulathunga",
+          "gender": "",
+          "phone": "0772667325",
+          "email": "sumedhakulatunga@gmail.com",
+          "mylci": "",
+          "address": "3/I Brown's Hill, Matara",
+          "img": "leo_club_of_rahula_college/club_advisor.png"
+        },
+        {
+          "designation": "Staff Advisor",
+          "name": "Mrs. Chandani Siriwardena",
+          "gender": "",
+          "phone": "0703500265",
+          "email": "Chansi20@hotmail.com",
+          "mylci": "",
+          "address": "15/1, Saram Mudali Mw, Matara",
+          "img": "leo_club_of_rahula_college/staff_advisor.png"
+        }
+      ]
+    },
+    {
+      "clubName": "Leo Club of Raththanapitiya",
+      "logo": "default_data/logo.png",
+      "officers": [
+        {
+          "designation": "President",
+          "name": "Leo Priyam Bashitha",
+          "gender": "",
+          "phone": "0723422283",
+          "email": "bhashithapriyam@gmail.com\r",
+          "mylci": "",
+          "address": "No 27, Albion lane, Colombo 09",
+          "img": "leo_club_of_raththanapitiya/president.png"
+        },
+        {
+          "designation": "Vice President",
+          "name": "Leo Vidusha Fernando ",
+          "gender": "",
+          "phone": "0766871118",
+          "email": "vidunvf29@gmail.com",
+          "mylci": "",
+          "address": "23/1 G, Bangalawatta Road, Mahara, Kadawatha",
+          "img": "leo_club_of_raththanapitiya/vice_president.png"
+        },
+        {
+          "designation": "Secretary",
+          "name": "Leo Kalana Kalpitha",
+          "gender": "",
+          "phone": "0719553867",
+          "email": " kalana9472@gmail.com",
+          "mylci": "",
+          "address": "191/B, Ambagahawaththa, Kalawana",
+          "img": "leo_club_of_raththanapitiya/secretary.png"
+        },
+        {
+          "designation": "Treasurer",
+          "name": "Leo Anjalie Dinushika Pieris",
+          "gender": "",
+          "phone": "0768455173",
+          "email": "pierisanjalie@gmail.com ",
+          "mylci": "",
+          "address": "597/31F, Moragahahena Road, Homagama.",
+          "img": "leo_club_of_raththanapitiya/treasurer.png"
+        },
+        {
+          "designation": "Club Advisor",
+          "name": "Lion Dewduni Sharmain Jayanandana ",
+          "gender": "",
+          "phone": "0761523978",
+          "email": "dewdunisharmain@yahoo.com ",
+          "mylci": "",
+          "address": "No. 135/3, Nallawatta Road, Maharagama",
+          "img": "leo_club_of_raththanapitiya/club_advisor.png"
+        }
+      ]
+    },
+    {
+      "clubName": "Leo Club of Saegis Campus",
+      "logo": "default_data/logo.png",
+      "officers": [
+        {
+          "designation": "President",
+          "name": "Leo Angelica Athapattu",
+          "gender": "",
+          "phone": "0760776697",
+          "email": "athapattuangelica@gmail.com",
+          "mylci": "",
+          "address": "Address- No. 434, henawatta road, gonawala, kelaniya",
+          "img": "leo_club_of_saegis_campus/president.png"
+        },
+        {
+          "designation": "Vice President",
+          "name": "Leo W.A.A.Upeksha.Hansani",
+          "gender": "",
+          "phone": "0703352114",
+          "email": "Upekshahansani317@gmail.com",
+          "mylci": "",
+          "address": "657/2 kendaliyadda Paluwa ,Gemunu Mawatha , Ragama",
+          "img": "leo_club_of_saegis_campus/vice_president.png"
+        },
+        {
+          "designation": "Secretary",
+          "name": "Leo N. Yadhishka Nirodhine",
+          "gender": "",
+          "phone": "0779875019",
+          "email": "nyadhisaegis@gmail.com",
+          "mylci": "",
+          "address": "No:217/A, Kanda Kumbura,  Rakwana",
+          "img": "leo_club_of_saegis_campus/secretary.png"
+        },
+        {
+          "designation": "Treasurer",
+          "name": "Leo W.M.Sandeepa Madushanka",
+          "gender": "",
+          "phone": "0768620536",
+          "email": "Sandeepamadushankas@gmail.com",
+          "mylci": "",
+          "address": "748/3,Arawwala,Pannipitiya.",
+          "img": "leo_club_of_saegis_campus/treasurer.png"
+        },
+        {
+          "designation": "Staff Advisor",
+          "name": "Mr.Thomas Benjamin Jeganathan",
+          "gender": "",
+          "phone": "0775336508",
+          "email": "thomas.benjamin@saegis.edu.lk",
+          "mylci": "",
+          "address": "No 135, S .De. S. Jayasinghe mawatha , Nugegoda ",
+          "img": "leo_club_of_saegis_campus/staff_advisor.png"
+        },
+        {
+          "designation": "Club Advisor",
+          "name": "PDG Lion Kamal Senevirathne PMJF",
+          "gender": "",
+          "phone": "0777349335",
+          "email": "pdgkamals@gmail.com",
+          "mylci": "",
+          "address": "222/B Galvihara road, Dehiwala",
+          "img": "leo_club_of_saegis_campus/club_advisor.png"
+        }
+      ]
+    },
+    {
+      "clubName": "Leo Club of Southern Metro",
+      "logo": "default_data/logo.png",
+      "officers": [
+        {
+          "designation": "President",
+          "name": "Leo Nipun Kariyawasam",
+          "gender": "",
+          "phone": "0779809233",
+          "email": "nipyantha@gmail.com",
+          "mylci": "",
+          "address": "No.39, Carlton City,Navinna Road,Uluvitike.",
+          "img": "leo_club_of_southern_metro/president.png"
+        },
+        {
+          "designation": "Vice President",
+          "name": "",
+          "gender": "",
+          "phone": "",
+          "email": "",
+          "mylci": "",
+          "address": "",
+          "img": "leo_club_of_southern_metro/vice_president.png"
+        },
+        {
+          "designation": "Secretary",
+          "name": "Leo Peenaka Wedamulla",
+          "gender": "",
+          "phone": "0703189612",
+          "email": "",
+          "mylci": "",
+          "address": "",
+          "img": "leo_club_of_southern_metro/secretary.png"
+        },
+        {
+          "designation": "Treasurer",
+          "name": "Leo Bawani Hallala",
+          "gender": "",
+          "phone": "0769856680",
+          "email": "",
+          "mylci": "",
+          "address": "",
+          "img": "leo_club_of_southern_metro/treasurer.png"
+        },
+        {
+          "designation": "Club Advisor",
+          "name": "",
+          "gender": "",
+          "phone": "",
+          "email": "",
+          "mylci": "",
+          "address": "",
+          "img": "leo_club_of_southern_metro/club_advisor.png"
+        }
+      ]
+    },
+    {
+      "clubName": "Leo Club of Sri Lanka Technological Campus",
+      "logo": "default_data/logo.png",
+      "officers": [
+        {
+          "designation": "President",
+          "name": "Leo M.G Thameera Lahiru Dananjaya",
+          "gender": "",
+          "phone": "0763285628",
+          "email": "thameera.sltcleos@gmail.com",
+          "mylci": "",
+          "address": "No.25/27p1, Sumithuru place, 1st Lane, Manthreemulla Road, Attidiya",
+          "img": "leo_club_of_sri_lanka_technological_campus/president.png"
+        },
+        {
+          "designation": "Vice President",
+          "name": "Leo Dinuga Senodh Jayawardena",
+          "gender": "",
+          "phone": "0775978991",
+          "email": "senodh.sltcleos@gmail.com",
+          "mylci": "",
+          "address": "186/13 Emaliyana Jayasekara Lane Pamunuwa Maharagama",
+          "img": "leo_club_of_sri_lanka_technological_campus/vice_president.png"
+        },
+        {
+          "designation": "Secretary",
+          "name": "Leo K.Y Sewwandi Gunasinghe",
+          "gender": "",
+          "phone": "0717278027",
+          "email": "sewwandi.sltcleos@gmail.com",
+          "mylci": "",
+          "address": "No 150, Nagahawaththa, Liyanwala, Padukka.",
+          "img": "leo_club_of_sri_lanka_technological_campus/secretary.png"
+        },
+        {
+          "designation": "Treasurer",
+          "name": "Leo Ranmal Perera",
+          "gender": "",
+          "phone": "0765611815",
+          "email": "ranmal.sltcleos@gmail.com",
+          "mylci": "",
+          "address": "No 80/37, Kithunugama, Pugoda",
+          "img": "leo_club_of_sri_lanka_technological_campus/treasurer.png"
+        },
+        {
+          "designation": "Staff Advisor",
+          "name": "Ms Pabasara Amarawardhane",
+          "gender": "",
+          "phone": "0710155109",
+          "email": "pabasaraa@sltc.ac.lk",
+          "mylci": "",
+          "address": "Sri Lanka Technological Campus. Meepe, Padukka",
+          "img": "leo_club_of_sri_lanka_technological_campus/staff_advisor.png"
+        },
+        {
+          "designation": "Club Advisor",
+          "name": "Lion Noel Palliyaguru",
+          "gender": "",
+          "phone": "0718328120",
+          "email": "noel.palli@gmail.com",
+          "mylci": "",
+          "address": "No. 9,  Attygalle Mawatha, Kesbewa",
+          "img": "leo_club_of_sri_lanka_technological_campus/club_advisor.png"
+        }
+      ]
+    },
+    {
+      "clubName": "Leo Club of University of Moratuwa",
+      "logo": "default_data/logo.png",
+      "officers": [
+        {
+          "designation": "President",
+          "name": "Leo Yasith Dissanayake",
+          "gender": "",
+          "phone": "0769983255",
+          "email": "yasithnaveendra@gmail.com",
+          "mylci": "",
+          "address": "Suriyasewana, Kiralabokka, Kalugamuwa, Kurunegala",
+          "img": "leo_club_of_university_of_moratuwa/president.png"
+        },
+        {
+          "designation": "Vice President",
+          "name": "Leo Hasitha Viduranga",
+          "gender": "",
+          "phone": "0702162942",
+          "email": "hasithaviduranga99.hi@gmail.com",
+          "mylci": "",
+          "address": "Hembagodawaththa, Diyalpe, Akuressa",
+          "img": "leo_club_of_university_of_moratuwa/vice_president.png"
+        },
+        {
+          "designation": "Secretary",
+          "name": "Leo Raveesha Lakmini\n",
+          "gender": "",
+          "phone": "0712211966",
+          "email": "raveeshalakmini1999@gmail.com",
+          "mylci": "",
+          "address": "No 90, Maniklanda, Pepiliawela",
+          "img": "leo_club_of_university_of_moratuwa/secretary.png"
+        },
+        {
+          "designation": "Treasurer",
+          "name": "Leo Dilmin Tharushika",
+          "gender": "",
+          "phone": "0711097357",
+          "email": "dilmintharushika@gmail.com",
+          "mylci": "",
+          "address": "Keselwatta, Polbindiwala Road, Yodhakandiya, Tissamaharamaya",
+          "img": "leo_club_of_university_of_moratuwa/treasurer.png"
+        },
+        {
+          "designation": "Staff Advisor",
+          "name": "Eng. A.T.L.K. Samarasinghe",
+          "gender": "",
+          "phone": "",
+          "email": "kithsiri@ent.mrt.ac.lk",
+          "mylci": "",
+          "address": "",
+          "img": "leo_club_of_university_of_moratuwa/staff_advisor.png"
+        },
+        {
+          "designation": "Club Advisor",
+          "name": "Lion Sumudu Amarasinghe",
+          "gender": "",
+          "phone": "0773958714",
+          "email": "sumuduamarasinghe@gmail.com",
+          "mylci": "",
+          "address": "No 5/1, Vidyala Mawatha, Pepiliyana, Boralesgamuwa",
+          "img": "leo_club_of_university_of_moratuwa/club_advisor.png"
+        }
+      ]
+    },
+    {
+      "clubName": "Leo Club of University of Sri Jayewardenapura",
+      "logo": "default_data/logo.png",
+      "officers": [
+        {
+          "designation": "President",
+          "name": "Leo Nomin Premaratha",
+          "gender": "",
+          "phone": "0702403719",
+          "email": "nomin.leousjp@gmail.com",
+          "mylci": "",
+          "address": "No. 369/11, Nandarsara Street, Hokandara North, Hokandara",
+          "img": "leo_club_of_university_of_sri_jayewardenapura/president.png"
+        },
+        {
+          "designation": "Vice President",
+          "name": "Leo Bonomi Tharinda",
+          "gender": "",
+          "phone": "0714822256",
+          "email": "bonomi.leousj@gmail.com",
+          "mylci": "",
+          "address": "No. 95/A3, Dikman Road, Asgiriya, Gampaha",
+          "img": "leo_club_of_university_of_sri_jayewardenapura/vice_president.png"
+        },
+        {
+          "designation": "Secretary",
+          "name": "Leo Himaw Gunathilaka",
+          "gender": "",
+          "phone": "0768236726",
+          "email": "himaw.leousj@gmail.com",
+          "mylci": "",
+          "address": "No. 29/53, C, D.M. Colombage Mawatha, Kirulapona, Colombo 05",
+          "img": "leo_club_of_university_of_sri_jayewardenapura/secretary.png"
+        },
+        {
+          "designation": "Treasurer",
+          "name": "Leo Chaga Puwakpitiya",
+          "gender": "",
+          "phone": "0766656838",
+          "email": "chaga.leousj@gmail.com",
+          "mylci": "",
+          "address": "No. 192/2, M.C. Road, Nagolla, Matale",
+          "img": "leo_club_of_university_of_sri_jayewardenapura/treasurer.png"
+        },
+        {
+          "designation": "Staff Advisor",
+          "name": "Dr Janaka Fernando",
+          "gender": "",
+          "phone": "0714191996",
+          "email": "pjsampath@sjp.ac.lk",
+          "mylci": "",
+          "address": "Department of Business Economics, Faculty of Management Studies and Commerce, University of Sri Jayewardenepura, Gangodawila, Nugegoda",
+          "img": "leo_club_of_university_of_sri_jayewardenapura/staff_advisor.png"
+        },
+        {
+          "designation": "Club Advisor",
+          "name": "Lion Gamini Wanniarachchi MJF",
+          "gender": "",
+          "phone": "0773182168",
+          "email": "gamini.wanniarachchi70@gmail.com",
+          "mylci": "",
+          "address": "No. 81/A, Daham Mawatha, Maharagama",
+          "img": "leo_club_of_university_of_sri_jayewardenapura/club_advisor.png"
+        }
+      ]
+    },
+    {
+      "clubName": "Leo Club of Uragasmanhandiya",
+      "logo": "default_data/logo.png",
+      "officers": [
+        {
+          "designation": "President",
+          "name": "Leo Thilina Hasanka",
+          "gender": "",
+          "phone": "0774735396",
+          "email": "hasankathilina35@gmail.com\r",
+          "mylci": "",
+          "address": "14th Mile Post Nawadagala, Elpitiya",
+          "img": "leo_club_of_uragasmanhandiya/president.png"
+        },
+        {
+          "designation": "Vice President",
+          "name": "Leo I.D. Shanika Lakshani ",
+          "gender": "",
+          "phone": "0764451224",
+          "email": "ilandarideewashanika027@gmail.com",
+          "mylci": "",
+          "address": "Hipankanda , Nawadagala , 7th mile Post ",
+          "img": "leo_club_of_uragasmanhandiya/vice_president.png"
+        },
+        {
+          "designation": "Secretary",
+          "name": "Leo Thiyomi Samudika Suduwella ",
+          "gender": "",
+          "phone": "0710454547",
+          "email": " thiyomisamudika1997@gmail.com",
+          "mylci": "",
+          "address": "Siripura,Nawadagala ,Elpitiya .",
+          "img": "leo_club_of_uragasmanhandiya/secretary.png"
+        },
+        {
+          "designation": "Treasurer",
+          "name": "Leo Gayan Thiwanka Jayawardhana ",
+          "gender": "",
+          "phone": "0774009538",
+          "email": "hg.gayan99@gmail.com",
+          "mylci": "",
+          "address": "Diyaparaduwa Road , 7th mile Post , Nawadagala.",
+          "img": "leo_club_of_uragasmanhandiya/treasurer.png"
+        },
+        {
+          "designation": "Club Advisor",
+          "name": "Lion Dr. Hasitha Indra Wijewardhana",
+          "gender": "",
+          "phone": "0773036437",
+          "email": "Lion.drhasitha@gmail.com",
+          "mylci": "",
+          "address": "",
+          "img": "leo_club_of_uragasmanhandiya/club_advisor.png"
+        }
+      ]
+    },
+    {
+      "clubName": "Leo Club of Christ Church Girls' College",
+      "logo": "default_data/logo.png",
+      "officers": [
+        {
+          "designation": "President",
+          "name": "",
+          "gender": "",
+          "phone": "",
+          "email": "",
+          "mylci": "",
+          "address": "",
+          "img": ""
+        },
+        {
+          "designation": "Vice President",
+          "name": "",
+          "gender": "",
+          "phone": "",
+          "email": "",
+          "mylci": "",
+          "address": "",
+          "img": ""
+        },
+        {
+          "designation": "Secretary",
+          "name": "",
+          "gender": "",
+          "phone": "",
+          "email": "",
+          "mylci": "",
+          "address": "",
+          "img": ""
+        },
+        {
+          "designation": "Treasurer",
+          "name": "",
+          "gender": "",
+          "phone": "",
+          "email": "",
+          "mylci": "",
+          "address": "",
+          "img": ""
+        },
+        {
+          "designation": "Club Advisor",
+          "name": "",
+          "gender": "",
+          "phone": "",
+          "email": "",
+          "mylci": "",
+          "address": "",
+          "img": ""
+        },
+        {
+          "designation": "Staff Advisor",
+          "name": "",
+          "gender": "",
+          "phone": "",
+          "email": "",
+          "mylci": "",
+          "address": "",
+          "img": ""
+        }
+      ]
+    },
+    {
+      "clubName": "Leo Club of Mattegoda",
+      "logo": "default_data/logo.png",
+      "officers": [
+        {
+          "designation": "President",
+          "name": "",
+          "gender": "",
+          "phone": "",
+          "email": "",
+          "mylci": "",
+          "address": "",
+          "img": ""
+        },
+        {
+          "designation": "Vice President",
+          "name": "",
+          "gender": "",
+          "phone": "",
+          "email": "",
+          "mylci": "",
+          "address": "",
+          "img": ""
+        },
+        {
+          "designation": "Secretary",
+          "name": "",
+          "gender": "",
+          "phone": "",
+          "email": "",
+          "mylci": "",
+          "address": "",
+          "img": ""
+        },
+        {
+          "designation": "Treasurer",
+          "name": "",
+          "gender": "",
+          "phone": "",
+          "email": "",
+          "mylci": "",
+          "address": "",
+          "img": ""
+        },
+        {
+          "designation": "Club Advisor",
+          "name": "",
+          "gender": "",
+          "phone": "",
+          "email": "",
+          "mylci": "",
+          "address": "",
+          "img": ""
+        }
+      ]
+    },
+    {
+      "clubName": "Leo Club of Piliyandala",
+      "logo": "default_data/logo.png",
+      "officers": [
+        {
+          "designation": "President",
+          "name": "",
+          "gender": "",
+          "phone": "",
+          "email": "",
+          "mylci": "",
+          "address": "",
+          "img": ""
+        },
+        {
+          "designation": "Vice President",
+          "name": "",
+          "gender": "",
+          "phone": "",
+          "email": "",
+          "mylci": "",
+          "address": "",
+          "img": ""
+        },
+        {
+          "designation": "Secretary",
+          "name": "",
+          "gender": "",
+          "phone": "",
+          "email": "",
+          "mylci": "",
+          "address": "",
+          "img": ""
+        },
+        {
+          "designation": "Treasurer",
+          "name": "",
+          "gender": "",
+          "phone": "",
+          "email": "",
+          "mylci": "",
+          "address": "",
+          "img": ""
+        },
+        {
+          "designation": "Club Advisor",
+          "name": "",
+          "gender": "",
+          "phone": "",
+          "email": "",
+          "mylci": "",
+          "address": "",
+          "img": ""
+        }
+      ]
+    },
+    {
+      "clubName": "Leo Club of Werahera",
+      "logo": "default_data/logo.png",
+      "officers": [
+        {
+          "designation": "President",
+          "name": "",
+          "gender": "",
+          "phone": "",
+          "email": "",
+          "mylci": "",
+          "address": "",
+          "img": ""
+        },
+        {
+          "designation": "Vice President",
+          "name": "",
+          "gender": "",
+          "phone": "",
+          "email": "",
+          "mylci": "",
+          "address": "",
+          "img": ""
+        },
+        {
+          "designation": "Secretary",
+          "name": "",
+          "gender": "",
+          "phone": "",
+          "email": "",
+          "mylci": "",
+          "address": "",
+          "img": ""
+        },
+        {
+          "designation": "Treasurer",
+          "name": "",
+          "gender": "",
+          "phone": "",
+          "email": "",
+          "mylci": "",
+          "address": "",
+          "img": ""
+        },
+        {
+          "designation": "Club Advisor",
+          "name": "",
+          "gender": "",
+          "phone": "",
+          "email": "",
+          "mylci": "",
+          "address": "",
+          "img": ""
+        }
+      ]
+    }
+  ]
+}
